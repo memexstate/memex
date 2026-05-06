@@ -1,0 +1,34 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.crt
+credentials.*
+secrets.*
+
+# Runtime/generated
+node_modules/
+.venv/
+venv/
+dist/
+build/
+coverage/
+*.log
+*.jsonl
+*.sqlite
+*.db
+
+# Memex private/runtime artifacts
+memex/
+snapshots/
+SESSION_EXPORTS/
+operational_trail/
+observatory/
