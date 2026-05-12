@@ -86,6 +86,7 @@ Reality grounding
 
 They help continuity remain connected to observable operational reality across time.
 
+The larger continuity architecture is defined in the [Northstar document](./northstar.md).
 ---
 
 # Temporal Continuity
@@ -172,6 +173,8 @@ continuity evidence
 
 This distinction helps reduce continuity drift during long-running work.
 
+Snapshot restoration and continuity resume are expanded in [snapshot-and-rehydration.md](./snapshot-and-rehydration.md).
+
 ---
 
 # Temporal Ordering
@@ -235,6 +238,8 @@ They are grounded in:
 * operational ordering
 
 Operational trails are not intended to become semantic authority.
+
+The public continuity truth hierarchy is defined in [truth_semantics.md](./truth_semantics.md).
 
 They preserve continuity evidence.
 

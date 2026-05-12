@@ -141,6 +141,8 @@ It helps preserve:
 
 across sessions.
 
+Working continuity state is described further in [snapshot-and-rehydration.md](./snapshot-and-rehydration.md).
+
 ---
 
 # Next Action
@@ -179,6 +181,8 @@ This exists because:
 * the action is the response applied to it
 
 Collapsing these into the same value weakens continuity clarity.
+
+Semantic continuity boundaries are expanded in [truth_semantics.md](./truth_semantics.md).
 
 ---
 
@@ -242,6 +246,8 @@ instead of only:
 what files changed
 ```
 
+Continuity restoration and resume behavior are described further in [snapshot-and-rehydration.md](./snapshot-and-rehydration.md).
+
 ---
 
 # Seams and Repository Navigation
@@ -256,6 +262,8 @@ Repository navigation systems may use the current seam to help surface:
 This navigation remains advisory.
 
 The seam does not override source truth.
+
+Repository-derived navigation behavior is described in [repo-cognition.md](./repo-cognition.md).
 
 ---
 

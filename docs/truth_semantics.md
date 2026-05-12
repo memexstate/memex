@@ -78,6 +78,8 @@ Observed truth exists to keep continuity grounded in observable reality.
 
 Observed operational evidence remains authoritative.
 
+Observed continuity evidence is described further in [operational-trails.md](./operational-trails.md).
+
 ---
 
 ## Design Characteristics
@@ -138,6 +140,8 @@ Examples may include:
 
 Projected truth exists to simplify continuity interaction surfaces without replacing underlying continuity state.
 
+Continuity restoration and resume behavior are described in [snapshot-and-rehydration.md](./snapshot-and-rehydration.md).
+
 ---
 
 ## Design Characteristics
@@ -189,6 +193,7 @@ source truth remains authoritative
 
 Observed reality outranks derived navigation.
 
+Repository-derived navigation structures are expanded in [repo-cognition.md](./repo-cognition.md).
 ---
 
 # Semantic Stability
@@ -210,6 +215,7 @@ Examples include:
 
 Stable semantics help reduce continuity drift across long-running work.
 
+Active unresolved continuity boundaries are modeled in the [seam model](./seam-model.md).
 ---
 
 # Visible Uncertainty

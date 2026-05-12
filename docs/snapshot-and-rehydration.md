@@ -83,6 +83,8 @@ across long-running work.
 
 The runtime attempts to preserve continuity shape while allowing execution environments and reasoning systems to evolve independently.
 
+The larger continuity architecture is defined in the [Northstar document](./northstar.md).
+
 ---
 
 # Working State
@@ -106,6 +108,8 @@ Working state is intentionally small.
 
 Its purpose is to preserve enough continuity structure for work to resume without reconstructing full historical context.
 
+Active unresolved continuity boundaries are modeled in the [seam model](./seam-model.md).
+
 ---
 
 # Operational Grounding
@@ -124,6 +128,7 @@ This helps continuity remain connected to observable runtime reality instead of 
 
 Observed operational reality remains authoritative.
 
+Operational continuity evidence is described further in [operational-trails.md](./operational-trails.md).
 ---
 
 # Continuity History
@@ -193,6 +198,8 @@ instead of:
 invented continuity
 ```
 
+The public continuity truth hierarchy is defined in [truth_semantics.md](./truth_semantics.md).
+
 ---
 
 # Resume
@@ -214,6 +221,7 @@ Resume attempts to preserve:
 
 This helps reduce repeated onboarding and continuity fragmentation across sessions.
 
+Repository continuity navigation during resume flows is described in [repo-cognition.md](./repo-cognition.md).
 ---
 
 # Continuity Integrity

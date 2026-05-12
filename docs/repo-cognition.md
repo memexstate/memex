@@ -58,6 +58,8 @@ Repo cognition is not canonical continuity truth.
 
 It is a lightweight observation layer built around observable repository reality.
 
+The larger continuity architecture is defined in the [Northstar document](./northstar.md).
+
 ---
 
 # Repository Observation
@@ -163,6 +165,8 @@ source files remain authoritative
 
 The runtime repeatedly preserves this boundary.
 
+The public truth hierarchy is expanded in [truth_semantics.md](./truth_semantics.md).
+
 ---
 
 # Context Maps
@@ -207,6 +211,7 @@ Route cards guide navigation.
 
 They do not override source truth.
 
+Active unresolved continuity boundaries are modeled through the [seam model](./seam-model.md).
 ---
 
 # Read-Before-Code Discipline
@@ -253,6 +258,8 @@ relevant repository context
 ```
 
 without relying entirely on repeated rediscovery.
+
+Continuity restoration and resume behavior are described further in [snapshot-and-rehydration.md](./snapshot-and-rehydration.md).
 
 ---
 

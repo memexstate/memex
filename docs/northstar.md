@@ -35,6 +35,8 @@ The reasoning engine may change.
 
 The continuity structure must remain stable.
 
+The runtime expression of this boundary is expanded in the [architecture document](./architecture.md).
+
 ---
 
 # Compass
@@ -260,6 +262,8 @@ next snapshot
 ```
 
 Continuity evolves through observable runtime progression instead of isolated session reconstruction.
+
+The broader evolution and restoration process is described in the [continuity lifecycle document](./continuity-lifecycle.md).
 
 ---
 
