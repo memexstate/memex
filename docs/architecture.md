@@ -85,6 +85,7 @@ This boundary allows the reasoning engine to change while the continuity structu
 The public architecture of Memex is grounded in the Northstar model.
 
 The Northstar defines the core continuity pattern:
+The full Northstar continuity model is defined in [northstar.md](./northstar.md).
 
 ```text
 Continuity = Regulate(Compass, Snapshots, Trails, Reality)
@@ -155,6 +156,7 @@ Snapshots may preserve:
 A snapshot is not merely a save file.
 
 It is a structured continuity artifact.
+Snapshot formation and continuity restoration are expanded in [snapshot-and-rehydration.md](./snapshot-and-rehydration.md).
 
 ---
 
@@ -186,6 +188,7 @@ Examples include:
 Observed reality always outranks interpretation.
 
 The Operational Trail exists so continuity can remain grounded in observable system behavior.
+Operational continuity evidence is further described in [operational-trails.md](./operational-trails.md).
 
 ---
 
@@ -292,6 +295,7 @@ current_seam != next_action
 ```
 
 This distinction is part of continuity integrity.
+The seam model is expanded in [seam-model.md](./seam-model.md).
 
 ---
 
@@ -322,6 +326,7 @@ Memex separates information into explicit truth classes.
 This prevents observed reality, declared intent, projected continuity views, and derived navigation from collapsing into the same layer.
 
 The public truth hierarchy is:
+The complete public truth hierarchy is defined in [truth_semantics.md](./truth_semantics.md).
 
 ```text
 Observed Truth
@@ -419,6 +424,7 @@ It guides attention.
 It does not replace source truth.
 
 Observed file contents remain authoritative.
+Repository-derived continuity navigation is described further in [repo-cognition.md](./repo-cognition.md).
 
 ---
 
@@ -446,6 +452,7 @@ It does not contain:
 * sensitive workspace artifacts
 
 The public repository exposes architectural concepts while preserving operational boundaries.
+The operational membrane behind the public continuity substrate is described in [public-boundary.md](./public-boundary.md).
 
 ---
 
